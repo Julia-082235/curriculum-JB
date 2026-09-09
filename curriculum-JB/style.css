@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #e2e6de;
+}
+.cabecalho{
+    display: flex;
+    background-color: #f9cede;
+    justify-content: space-between;
+    align-items: center;
+}
+header section{
+    display: flex;
+    justify-content: space-between;
+    gap: 7px;
+    margin: 5px;
+    color: #2a2a2a;
+}
+#sobrenome_header{
+    color: #788e75;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    gap: 7px;
+    margin: 5px;
+    color: #2a2a2a;
+}
+.cabecalho_II{
+    background-color: #c4dae9;
+}
